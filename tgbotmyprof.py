@@ -9,7 +9,7 @@ Original file is located at
 
 pip install python-telegram-bot
 
-pip install python-telegram-bot
+
 
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
